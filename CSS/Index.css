@@ -121,3 +121,7 @@ main .main-quotes {
     text-shadow: -2px 2px 4px #000;
     z-index: 100;
 }
+
+html {
+  scroll-behavior: smooth;
+}
