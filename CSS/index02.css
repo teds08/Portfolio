@@ -100,3 +100,7 @@ section {
   font-family: Arial, Helvetica, sans-serif;
   padding: 20px 0;
 }
+
+html {
+  scroll-behavior:smooth;
+}
